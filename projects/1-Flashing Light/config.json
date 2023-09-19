@@ -1,0 +1,10 @@
+{
+    "project": [1,"Flashing LED","Beginner","5min"],
+    "intro": "Shows a simple way to blink leds",
+    "learn": "Jumpers, Resistor, LED",
+    "UI": {
+        "type": [1, "Flasher"],
+        "options": "Fast Blink,Slow Blink,Ticker,HeartBeat,Notify"
+    },
+    "icon": 0
+}
