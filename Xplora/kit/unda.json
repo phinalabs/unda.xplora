@@ -1,0 +1,39 @@
+{
+  "variants": [
+
+    {
+      "image": "Top_View",
+      "steps": [
+        "1.Display.",
+        "This is the interface of the kit",
+        "2.Keypad",
+        "Use the keypad for navigation",
+        "3.Breadboard",
+        "Use the breadboard to build and prototype circuits",
+        "4.GPIO and Power Pins"
+
+
+    ]
+
+
+    },
+    {
+      "image": "Mem_Card View",
+      "steps": "1.Memory Card Slot"
+    },
+    {
+      "image": "Power_SideView",
+      "steps": [
+        "1.Power jack connector.",
+        "Use the power jack connector to connect to the battery connector",
+        "2.Firmware update slot",
+        "To update the kits software, connect a USB-B Cable to the computer",
+        "3.Serial Communication slot",
+        "Use a USB-C cable to conenct to Scratch Application"
+
+    ]
+
+
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "name": "Energy",
+  "items": ["Battery", "AC-DC Adapter", "Hydroelectric",  "Solar", "Wind", "Nuclear" ]
+}

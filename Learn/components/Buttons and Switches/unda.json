@@ -1,0 +1,50 @@
+{
+  "variants": [
+    {
+      "image": "Push_button",
+      "steps": [
+        "Pushbutton." ,
+        "Once it is pressed it goes back to initial position."
+      ]
+    },
+    {
+      "image": "Latch_Button",
+      "steps": [
+        "Latch button.",
+        "When pressed it remains in that position until pressed again."
+      ]
+    },
+    {
+      "image": "Slide_Switch",
+      "steps":[
+      "Slide Switch ",
+      "The slide switch works by sliding the slider from OFF to ON position."
+    ] 
+    },
+  
+    {
+      "image": "Rotary_Switch",
+      "steps": 
+      [
+        "Rotary switch.",
+        "It works by rotation operation to select one of several positions."
+      ]
+      
+    },
+    {
+      "image": "Toggle_Switch",
+      "steps": [
+        "Toggle switch.",
+        "It has a lever that can be pushed up and down or left ad right to switch on and off."
+      ]
+    },
+    {
+      "image": "Dip_Switch",
+      "steps":  [
+        "DIP switch.",
+        "It consists of a series of switches in a single unit."
+      ]
+    }
+   
+  ]
+}

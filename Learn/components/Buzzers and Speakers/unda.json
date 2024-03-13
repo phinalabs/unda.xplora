@@ -1,0 +1,25 @@
+{
+  "variants": [
+    {
+      "image": "Piezo_Speaker",
+      "steps": [
+        "Piezo speakers.",
+        "It makes use of the piezoelectric effect to generate sound."
+      ]
+    },
+    {
+      "image": "Buzzer",
+      "steps": [
+      "Buzzer",
+      "It creates a buzzing ior beeping sound when connected to power"
+    ]
+    },
+    {
+      "image": "Speaker",
+      "steps": [
+      "Speaker",
+      "It converts electromagnetic waves into sound waves"
+    ]
+    }
+  ]
+}

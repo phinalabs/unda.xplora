@@ -1,10 +1,47 @@
 {
-    "project": [1,"Flashing LED","Beginner","5min"],
-    "intro": "Shows a simple way to blink leds",
-    "learn": "Jumpers, Resistor, LED",
-    "UI": {
-        "type": [1, "Flasher"],
-        "options": "Fast Blink,Slow Blink,Ticker,HeartBeat,Notify"
-    },
-    "icon": 0
+	"project": [
+		1,
+		"Flashing LED",
+		"Beginner",
+		"5min"
+	],
+	"intro": "Shows a simple way to blink leds",
+	"learn": "Jumpers, Resistor, LED",
+	"UI": {
+		"type": [
+			1,
+			"Flasher"
+		],
+		"options": "Fast Blink,Slow Blink,Ticker,HeartBeat,Notify"
+	},
+	"icon": "",
+	"build": [
+		{
+			"image": "FIG_1a",
+			"steps": ""
+		},
+		{
+			"image": "FIG_2a",
+			"steps": [
+				"1. Connect positive pin of the LED to a jumper wire",
+				"2. Place the Resistor on the breadboard",
+				"3. Place the jumper wire between LED and the resistor"
+			]
+		},
+		{
+			"image": "FIG_3",
+			"steps": "Connect jumper wire from D2 to one side of the resistor"
+		},
+		{
+			"image": "FIG_4",
+			"steps": [
+				"1. Connect a jumper wire from GND to the negative rail",
+				"2. Connect a jumper wire from negative rail to negative side of LED"
+			]
+		},
+		{
+			"image": "qurl",
+			"steps": "Scan for detailed build."
+		}
+	]
 }

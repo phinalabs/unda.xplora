@@ -1,0 +1,41 @@
+{
+  "variants": [
+    {
+      "image": "Diodes",
+      "steps": [
+        "This is an electrical component that allows current to flow in one direction only.",
+        "There are different types and sizes with each having  its own use",
+        "Let us now look at the types."
+      ]
+    },
+    {
+      "image": "Light_Emitting_Diode",
+      "steps": [
+      "The LED (Light Emitting Diode) is the most common diode.",
+      "They emit light when current flows through them."
+    ]
+    },
+    {
+      "image": "Varactor_Diode",
+      "steps":"The varactor diode is commonly used in electronic tuning."
+      
+    },
+    {
+      "image": "Photo_Diode",
+      "steps": [
+        "These photodiode converts light energy into electrical energy",
+        "They are used in fire and smoke detectors."
+      
+      ]
+    },
+    {
+      "image": "Laser_Diode",
+      "steps": [
+        "The laser diode is used to emit light energy at very high intensity",
+        "The light they emit is called laser",
+        "Mostly used in laser printers, barcode readers."
+      ]
+    }
+   
+  ]
+}

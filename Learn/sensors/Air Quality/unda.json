@@ -1,0 +1,37 @@
+{
+  "variants": [
+    {
+      "image": "Metal_Oxide",
+      "steps": [
+        "Metal Oxide Sensor",
+        "It is used to detect concentration of varioud types of gases."
+      ]
+    },
+    {
+      "image": "NDIR_Sensor",
+      "steps":  [
+        "Dual Beam NDIR Sensor",
+        "It is used to monitor and detect carbon dioxide levles in indoor air quality uses."
+      ]
+    },
+    {
+      "image": "VOC_Sensor",
+      "steps":  [
+        "Volatile Organic Compounds Sensor",
+        "It is used to detect harmful volatile organic compound gases ."
+        
+      ]
+    },
+    {
+      "image": "Electrochemical_Sensor",
+      "steps":  [
+        "Electrochemical Sensors",
+        "It detects presence of toxic gases eg, ammonia, carbondioxide etc in air."
+        
+      ]
+    }
+   
+   
+   
+  ]
+}

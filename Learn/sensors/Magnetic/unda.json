@@ -1,0 +1,37 @@
+{
+  "variants": [
+    {
+      "image": "Hall_Sensor",
+      "steps": [
+        "Hall Effect Sensor",
+        "It is used to detect the strength and direction of magnetic fields."
+      ]
+    },
+    {
+      "image": "Reed_Sensor",
+      "steps":  [
+        "Reed Switch Sensor",
+        "It is used to detect the presence of magnetic field."
+      ]
+    },
+    {
+      "image": "Proximity_Sensor",
+      "steps":  [
+        "Magnetic Proximity Sensor",
+        "It is a non-contact sensor used to detect magnetic objects."
+        
+      ]
+    },
+    {
+      "image": "Magneto_Sensor",
+      "steps":  [
+        "Magnetoresistive Sensor",
+        "It is a sensor used to determine the position of magnetic objects."
+        
+      ]
+    }
+   
+   
+   
+  ]
+}

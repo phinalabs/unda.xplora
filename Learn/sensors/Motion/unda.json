@@ -1,0 +1,29 @@
+{
+  "variants": [
+    {
+      "image": "PIR_Sensor",
+      "steps": [
+        "Passive Infrared Motion Sensor",
+        "It detects motion by measuring infrared light coming from objects."
+
+      ]
+    },
+    {
+      "image": "Microwave_Sensor",
+      "steps":  [
+        "Microwave Motion Sensor",
+        "It detects motion by reflecting and receiving microwave radiations."
+      ]
+    },
+    {
+      "image": "Tomographic_Sensor",
+      "steps":  [
+        "Tomographic Motion Sensor",
+        "Detect motion by generating radio waves and detecting when the waves are disturbed."
+        
+      ]
+    }
+   
+   
+  ]
+}

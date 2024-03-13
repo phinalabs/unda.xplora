@@ -1,0 +1,52 @@
+{
+  "variants": [
+    {
+      "image": "Alkaline_Battery",
+      "steps": [
+      "Alkaline Batteries",
+      "Primary battery that gets energy from reaction between zinc and manganese oxide."
+      ]
+    },
+    {
+      "image": "Lithium_Battery",
+      "steps":  [
+      "Lithium Ion Battery",
+      "It is a rechargable battery that makes use of Lithium compounds."
+      ]
+    },
+    {
+      "image": "Polymer_Batteryr",
+      "steps":  [
+      "Lithium Polymer Battery",
+      "It is a rechargable battery that makes use of Lithium and polymer compounds."
+        
+      ]
+    },
+    {
+      "image": "Button_Battery",
+      "steps":  [
+      "Button Cell Battery",
+      "It is made up of lithium compounds. Mostly used in watches"
+        
+      ]
+    },
+    {
+      "image": "LFP_Battery",
+      "steps":  [
+      "Lithium Iron Phosphate Battery",
+      "It is makes use of  up of lithium iron phosphate compounds"
+        
+      ]
+    },
+    {
+      "image": "Lead_Battery",
+      "steps":  [
+      "Lead Acid Battery",
+      "It is makes use of Lead Compounds such as lead dioxide"
+        
+      ]
+    }
+   
+   
+  ]
+}

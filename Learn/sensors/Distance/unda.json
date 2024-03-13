@@ -1,0 +1,36 @@
+{
+  "variants": [
+    {
+      "image": "Ultrasonic_Sensor",
+      "steps": [
+        "Ultrasonic Sensor",
+        "It is uses sound waves to determine the distance."
+      ]
+    },
+    {
+      "image": "Laser_Sensor",
+      "steps":  [
+        "Laser Sensor",
+        "It is uses focused light beam to determine distance of an object."
+      ]
+    },
+    {
+      "image": "Optical_Sensor",
+      "steps":  [
+        "Optical Proximity Sensor",
+        "It is uses light to measure object distance without making contact."
+        
+      ]
+    },
+    {
+      "image": "IR_Sensor",
+      "steps":  [
+        "Infrared Distance Sensor",
+        "It is uses infrared beam to measure object distance."
+        
+      ]
+    }
+   
+   
+  ]
+}

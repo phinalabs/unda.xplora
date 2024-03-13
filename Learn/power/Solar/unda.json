@@ -1,0 +1,14 @@
+{
+  "variants": [
+    {
+      "image": "Solar_Cell",
+      "steps": [
+      "Solar Panel",
+      "Electricity can be harnessed from the sun using solar panels.",
+      "Solar Power is a renewable form of energy."
+      
+  
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "variants": [
+    {
+      "image": "Photo_Resistor",
+      "steps": [
+        "Photoresistor",
+        "It is used to detect the presence or absence of light."
+      ]
+    },
+    {
+      "image": "Photo_Diode",
+      "steps":  [
+        "Photodiode",
+        "It is used to detect the presence or absence of light."
+      ]
+    },
+    {
+      "image": "Photo_Transistor",
+      "steps":  [
+        "Phototransistor",
+        "It is used to detect the presence or absence of light and light level."
+        
+      ]
+    }
+   
+   
+  ]
+}

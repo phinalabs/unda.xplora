@@ -1,0 +1,149 @@
+{
+  "variants": [
+{
+      "image": "Components _Kit",
+      "steps": "Components Kit"
+},
+    {
+      "image": "RED_LEDS",
+      "steps": "Three Red Leds"
+    
+    },
+    {
+      "image": "GREEN_LEDS",
+      "steps": "Three Green Leds"
+    
+    },
+    {
+      "image": "YELLOW_LEDS",
+      "steps": "Three Yellow Leds"
+    
+    },
+    {
+      "image": "ORANGE_LEDS",
+      "steps": "Three Orange Leds"
+    
+    },
+    {
+      "image": "BLUE_LEDS",
+      "steps": "Three Blue Leds"
+    
+    },
+    {
+      "image": "WHITE_LED",
+      "steps": "One white Led"
+    
+    },
+  
+    {
+      "image": "RGB_LED",
+      "steps": [
+        "There are two types of RGB Leds",
+        "The kit has the common cathode meaning the longest leg is negative",
+        "This means that the longest arm is connected to the negative"
+      
+      ]
+    },
+    {
+      "image": "Pushbutton",
+      "steps": [
+        "The kit has 5 pushbuttons",
+        "It is a momentary pushbutton meaning once pressed it goes to initial position"
+      ]
+    },
+    {
+      "image": "220_RESISTOR",
+      "steps": [
+        "There are ten 220ohm resistors ",
+        "Resistors have no polarity, thus no negative and positive side"
+      ]
+    },
+    {
+      "image": "10K_RESIST0R",
+      "steps": "There are ten 10 Kiloohm resistors "
+      
+    },
+    {
+      "image": "LDR",
+      "steps": [
+        "The Light Dependent Resistor can detect presence or absence of light",
+        "It is has no polarity(no  negative or positive side)"
+      ]
+    },
+    {
+      "image": "TMP 36",
+      "steps": [
+        "The specific temperature sensor in this kit is TMP 36",
+        "The first pin goes to 5V Pin of the Unda xplora Kit",
+        "The second pin goes to any analog (A0 to A7)Pin of the Kit",
+        "The third pin goes to Ground Pin of the Unda xplora the Kit"
+      ]
+    },
+    {
+      "image": "Potentiometer",
+      "steps": [
+        "The potentiometer has 3 pins",
+        "Pin one is connected to 5V pin on the kit.",
+        "Pin two is connected to any analog pin.",
+        "Pin three is connected to Ground (GND Pin)"
+      ]
+    },
+    {
+      "image": "Buzzer",
+      "steps": [
+        "Buzzer",
+        "The positive pin is longer than the negative pin"
+        
+      ]
+    },
+    {
+      "image": "Motor",
+      "steps": [
+        "The motor is a DC Motor",
+        "It is has been connected to a diode already for easier connection.",
+        "The red wire is the positive pin and black is the negative pin.",
+        "Connect positive to digital pin and negative to ground pin."
+      ]
+    },
+    {
+      "image": "Breadboarding Wires",
+      "steps": [
+        "There are various different sized  breadboarding jumper wires in the kit",
+        "Use them to make connections between components that are closer together"
+      ]
+    },
+    {
+      "image": "Jumper Wire",
+      "steps": [
+        "There are 10 different sized jumper wires",
+        "Use them to make connections between components that are far apart"
+      ]
+    },
+    {
+      "image": "Power Supply",
+      "steps": [
+        "Rechargable 9V Battery",
+        "There battery that acts as our power supply"
+       
+      ]
+    },
+    {
+      "image": "Battery_Connector",
+      "steps": [
+        "Battery Connector Cable",
+        "Use the battery connector cable to power the kit"
+        
+      ]
+    },
+    {
+      "image": "Charging_Cable",
+      "steps": [
+        "Battery Charging Cable",
+        "Use the type-C cable to charge the battery"
+        
+      ]
+    }
+    
+  
+  ]
+}

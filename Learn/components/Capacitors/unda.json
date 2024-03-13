@@ -1,0 +1,41 @@
+{
+  "variants": [
+    {
+      "image": "Capacitors",
+      "steps": [
+        "This is an electrical component that can store electrical charge.",
+        "There are used to block direct current and allow alternating current to pass.",
+        "Let us now look at the types."
+      ]
+    },
+    {
+      "image": "Electrolytic_Capacitor",
+      "steps": [
+        "These electrolytic capacitor is the most widely used capacitor",
+        "They are in power supply circuits ."
+      
+      ]
+    },
+    {
+      "image": "Ceramic_Capacitor",
+      "steps": "The ceramic capacitors are used in decoupling, filtering and timing circuits."
+     
+    },
+  
+    {
+      "image": "Film_Capacitor",
+      "steps": 
+      "The film capacitor is used in voltage smoothing."
+    
+    },
+    {
+      "image": "Polyester_Capacitor",
+      "steps": "The polyester capacitor is used in audio circuits"
+    },
+    {
+      "image": "Tantalum_Capacitor",
+      "steps": "The tantalum capacitor are used in many applications such as televion sets."
+    }
+   
+  ]
+}

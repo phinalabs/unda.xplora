@@ -1,0 +1,4 @@
+{
+  "name": "Parts",
+  "items": ["Resistors", "Capacitors", "LEDs", "Buttons and Switches", "Jumpers", "Diodes", "Inductors", "Buzzers and Speakers"]
+}

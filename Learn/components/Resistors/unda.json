@@ -1,0 +1,24 @@
+{
+  "variants": [
+    {
+      "image": "R_Res",
+      "steps": "Metal Film Resistor"
+    },
+    {
+      "image": "R_Pot",
+      "steps": "Potentiometer or Variable Resistor"
+    },
+    {
+      "image": "R_Var",
+      "steps": "Varistor"
+    },
+    {
+      "image": "R_Therm",
+      "steps": ["Thermistor", "Resistance changes with temperature"]
+    },
+    {
+      "image": "R_LDR",
+      "steps": ["LDR [Light Dependent Resistor]", "Resistance changes with light intensity"]
+    }
+  ]
+}

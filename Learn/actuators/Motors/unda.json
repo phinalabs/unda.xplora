@@ -1,0 +1,46 @@
+{
+  "variants": [
+    {
+      "image": "Induction_Motor",
+      "steps": [
+        "Inductor Motor",
+        "This kind of motor uses alternating current to produce mechanical force"
+      ]
+    },
+    {
+      "image": "DC_Motor",
+      "steps":  [
+        "Direct Current (DC) Motor",
+        "This kind of motor uses direct current to produce mechanical force"
+      ]
+    },
+    {
+      "image": "Synchronous_Motor",
+      "steps":  [
+        "Synchronous Motor",
+        "This kind of motor rotates by moving at constant rotational speed"
+      ]
+    },
+    {
+      "image": "Stepper_Motor",
+      "steps": [
+      "Stepper Motor",
+      "This kind of motor rotates by moving at a fixed amount of degrees/in steps"
+    ]
+    },
+    {
+      "image": "Servo_Motor",
+      "steps":  [
+        "Servo Motor",
+        "This kind of motor can turn objects to a specified position"
+      ]
+    },
+    {
+      "image": "Reluctance_Motor",
+      "steps":  [
+        "Reluctance Motor",
+        "Works on the fact that magnetic materials moves to areas of stronger magnetic field"
+      ]
+    }
+  ]
+}

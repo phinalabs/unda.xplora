@@ -1,0 +1,49 @@
+{
+  "variants": [
+    {
+      "image": "Solenoids",
+      "steps": [
+        "Solenoids consists of coil of wire wrapped around a cylindrical core",
+        "It works on principle of electromagnetism and are used in transformers",
+        "Let us look at the types."
+
+      ]
+    },
+    {
+      "image": "AC_Solenoid",
+      "steps":  [
+        "Alternating Current Solenoid",
+        "This kind of solenoid delivers large force on intial stroke"
+      ]
+    },
+    {
+      "image": "DC-C Frame_Solenoid",
+      "steps":  [
+        "DC-C Frame Solenoid",
+        "This kind of solenoid runs on direct current"
+        
+      ]
+    },
+    {
+      "image": "DC-D Frame_Solenoid",
+      "steps": [
+      "DC-D Frame Solenoid",
+      "This kind of solenoid runs on direct current"
+    ]
+    },
+    {
+      "image": "Linear_Solenoid",
+      "steps":  [
+        "Linear Solenoid",
+        "It converts electromagnetic force into linear movement"
+      ]
+    },
+    {
+      "image": "Rotary_Solenoid",
+      "steps":  [
+        "Rotary Solenoid",
+        "Perfom rotary motion with certain force and over defined angle"
+      ]
+    }
+  ]
+}

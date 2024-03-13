@@ -1,0 +1,36 @@
+{
+  "variants": [
+    {
+      "image": "Breadboard",
+      "steps": [
+        "Breadboard.",
+        "They are used to prototype or build circuits on.",
+        "Let us now look at the types."
+      ]
+    },
+    {
+      "image": "Full_Size",
+      "steps": [
+      "Full-Size Breadboard.",
+      "It is 5.5cm by 17cm."
+  
+    ]
+    },
+    {
+      "image": "Half_Size",
+      "steps": [
+      "Half-Size Breadboard.",
+      "It is 5.5cm by 8.3cm."
+  
+    ]
+    },
+    {
+      "image": "Mini_Size",
+      "steps": [
+      "Mini-Size Breadboard.",
+      "It is 3.6cm by 4.6cm."
+  
+    ]
+    }
+  ]
+}

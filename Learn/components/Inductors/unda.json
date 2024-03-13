@@ -1,0 +1,28 @@
+{
+  "variants": [
+    {
+      "image": "Air_Inductor",
+      "steps": "Air-Core Inductor"
+    },
+    {
+      "image": "Iron_Inductor",
+      "steps": "Iron-Core Inductor"
+    },
+    {
+      "image": "Ferrite_Inductor",
+      "steps": "Ferrite Core Inductor"
+    },
+    {
+      "image": "Bobbin_Inductor",
+      "steps": "Bobbin Based Inductor"
+    },
+    {
+      "image": "Variable_Inductor",
+      "steps": "Variable Inductor"
+    },
+    {
+    "image": "Ceramic_Inductor",
+    "steps": "Multi-Layer Ceramic Inductor"
+  }
+  ]
+}

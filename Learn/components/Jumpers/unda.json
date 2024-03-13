@@ -1,0 +1,43 @@
+{
+  "variants": [
+    {
+      "image": "Jumper_Wires",
+      "steps": [
+        "They are electrical wires with connector pins at each end.",
+        "They are used to connect two points in a circuit without soldering.",
+        "Let us now look at the types."
+      ]
+    },
+    {
+      "image": "Male_Jumper",
+      "steps": [
+      "The male to male jumper wire is the most commonly used jumper wire.",
+      "They are used to connect two points in a circuit or two ports on breadboard.",
+      "They also interconnect components placed on breadboard to other points of the circuit."
+    ]
+    },
+    {
+      "image": "Female_Jumper",
+      "steps":[
+        "The female to female jumper wire has different connector pin at its ends",
+        "They are used to connect to female socket pins in prototyping boards."
+      ]
+    },
+    {
+      "image": "Male_Female_Jumper",
+      "steps": [
+        "These type is male to female jumper wire which is a combination of the first two types",
+        "They are used to connect two points in a circuit with one point being a female socket."
+      
+      ]
+    },
+    {
+      "image": "Breadboarding_Jumper",
+      "steps": [
+        "The breadboarding jumper wires have no connector pins at its end",
+        "They are used to interconnect components on the breadboard.",
+        "Mostly used in connections between point or components that are closer together."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "variants": [
+    {
+      "image": "Single_Color_LED",
+      "steps": [
+        "Single Color Led." ,
+        "It is made up of one LED with one color. Has variety of colors and sizes."
+      ]
+    },
+    {
+      "image": "RGB_LED",
+      "steps": [
+        "RGB LED.",
+        "It is made up of 3 separate LEDs in one package."
+      ]
+    },
+    {
+      "image": "COB_LED",
+      "steps":[
+      "Chip on Board LED ",
+      "This are LEDs used to manufacture flood lights ."
+    ] 
+    },
+    {
+      "image": "White_LED",
+      "steps": 
+      [
+        "White LED.",
+        "It is commonly used in household bulbs."
+      ]
+    },
+    {
+      "image": "UV_LED",
+      "steps": [
+        "Ultra Violet LED.",
+        "This LED emits Ultra Violet Light."
+      ]
+    },
+    {
+      "image": "Infrared_LED",
+      "steps":  [
+        "Infrared LED.",
+        "It is often used in security cameras."
+      ]
+    }
+  ]
+}

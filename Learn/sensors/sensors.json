@@ -1,0 +1,4 @@
+{
+  "name": "Sense",
+  "items": ["Temperature", "Humidity", "Motion", "Distance", "Magnetic", "Air Quality", "Light"]
+}

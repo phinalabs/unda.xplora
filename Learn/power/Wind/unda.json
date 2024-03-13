@@ -1,0 +1,13 @@
+{
+  "variants": [
+    {
+      "image": "Wind_Power",
+      "steps": [
+      "Wind Turbines",
+      "Electricity can be harnessed from the wind using wind turbines.",
+      "Energy harnessed from wind is a renewable form of energy."
+      
+      ]
+    }
+  ]
+}

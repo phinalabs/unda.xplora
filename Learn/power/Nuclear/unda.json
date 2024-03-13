@@ -1,0 +1,14 @@
+{
+  "variants": [
+    {
+      "image": "Nuclear_Power",
+      "steps": [
+      "Nuclear Plant",
+      "Electricity can be harnessed from nuclear reactions.",
+      "It produces alot of electricty from small amount of nuclear reaction."
+      
+  
+      ]
+    }
+  ]
+}

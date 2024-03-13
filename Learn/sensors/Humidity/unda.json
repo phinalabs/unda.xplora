@@ -1,0 +1,29 @@
+{
+  "variants": [
+    {
+      "image": "Capacitive_Sensor",
+      "steps": [
+        "Capacitive Humidity Sensor",
+        "It measures humidity by detetcing changes in capacitance."
+
+      ]
+    },
+    {
+      "image": "Resistive_Sensor",
+      "steps":  [
+        "Resistive Humidity Sensor",
+        "It measures humidity by detecting changes in resistance."
+      ]
+    },
+    {
+      "image": "Thermal_Sensor",
+      "steps":  [
+        "Thermal Humidity Sensor",
+        "They measure thermal conductivity of both dry air and water vapor."
+        
+      ]
+    }
+   
+   
+  ]
+}

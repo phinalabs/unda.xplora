@@ -1,0 +1,14 @@
+{
+  "variants": [
+    {
+      "image": "Robotic_Arm",
+      "steps": [
+        "Robotic Arm",
+        "It is a mechanical arm that is usually programmmable.",
+        "It can be programmed to function like a human arm.",
+        "The robotic arms are used in industries to assemble, weld and cut materials."
+
+      ]
+    }
+  ]
+}

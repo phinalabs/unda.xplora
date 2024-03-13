@@ -1,0 +1,50 @@
+{
+  "variants": [
+    {
+      "image": "RTD_Sensor",
+      "steps": [
+        "Resistance Temperature Detector",
+        "The resistance changes as the temperature changes."
+
+      ]
+    },
+    {
+      "image": "NTC_Thermistor",
+      "steps":  [
+        "Negative Temperature Coefficient Thermistor",
+        "The resistance decreases with an increase in temperature"
+      ]
+    },
+    {
+      "image": "PTC_Thermistor",
+      "steps":  [
+        "Positive Temperature Coefficient Thermistor",
+        "The resistance increases with an increase in temperature."
+        
+      ]
+    },
+    {
+      "image": "Thermocouple",
+      "steps": [
+      "Thermocouple",
+      "They have two wires and the voltage between them reflects temperature"
+    ]
+    },
+    {
+      "image": "IR_Sensor",
+      "steps":  [
+        "Infrared Temperature Sensor",
+        "It measures temperature from a distance by detecting an objects ifrared energy"
+      ]
+    },
+    {
+      "image": "Vibrating_Sensor",
+      "steps":  [
+        "Vibrating Wire Temperature Sensor",
+        "It measures temperature of concerete during curing"
+      ]
+    }
+   
+   
+  ]
+}
