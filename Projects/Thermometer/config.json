@@ -1,0 +1,28 @@
+{
+    "project": [7,"Temperature Indicator","Intermediate","12min"],
+    "intro": "Use temperature sensor to read temperature",
+    "learn": "Jumpers, Resistor, LEDS, Temperature Sensor",
+    "UI": {
+        "type": [2, "VALUE"],
+        "options": [3, "Temperature °C"]
+    },
+    "icon": "",
+	"build": [
+        {"image": "FIG_1", "steps": ""},
+        {
+			"image": "FIG_2",
+			"steps": "Place the temperature sensor on the breadboard"
+		},
+		{
+			"image": "FIG_3",
+			"steps": [
+				"1. Connect a jumper wire from A5 to the signal pin(the middle pin)",
+				"2. Connect a jumper wire from GND to the negative of the sensor",
+				"3. Connect a jumper wire from 5V to the positive rail of the breadboard",
+                "3. Connect a jumper wire from postive rail to the positive of the sensor",
+				"4. Go to the play section and check the temperature value"
+			]
+		}
+			
+		]
+}

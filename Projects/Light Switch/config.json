@@ -1,0 +1,33 @@
+{
+    "project": [6,"Light Switch","Beginner","16min"],
+    "intro": "Press the Button to put ON and OFF a white LED",
+    "learn": "Jumpers, Resistor, LED, Button",
+    "UI": {
+        "type": [3, "State"],
+        "options": "ON,OFF"
+    },
+    "build": [
+        {"image": "FIG_1", "steps": ""},
+        {
+			"image": "FIG_2",
+			"steps":[
+			"1.Place the LED and a 220 ohm resistor on the breadboard",
+			"2.Connect using breadboarding jumper wire from GND to the negative rail of the breadboard",
+			"3.Connect using breadboarding jumper wire from negative rail to the negative side of the LED",
+			"4.Connect a jumper wire from D4 to the resistor side on the positive side of the LED"
+			
+			]
+		},
+        {"image": "FIG_3", "steps": "Place one pushbutton and one 10K ohm resistor on the breadboard"},
+		
+		{
+			"image": "FIG_4",
+			"steps": [
+				"1. Using a jumper wire connect from 5V to one side of the pushbutton",
+				"2. Connect a jumper wire from D10 to the resistor side that is next to the pushbutton",
+				"3. Connect a jumper wire from the negative rail of the breadboard to one side of resistor",
+                "4. Run the project and then press the pushbutton and observe"
+			]	
+		}
+    ]	
+}

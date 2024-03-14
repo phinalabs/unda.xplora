@@ -1,0 +1,56 @@
+{
+	"project": [
+		1,
+		"Notification Lights",
+		"Beginner",
+		"5min"
+	],
+	"intro": "Show a RED light when device powers ON and a Green light when READY",
+	"learn": "Jumpers, Resistor, RGB LED, Button",
+	"UI": {
+		"type": [
+			1,
+			"State"
+		],
+		"options": "ON,OFF"
+	},
+	"icon": "",
+	"build": [
+		{
+			"image": "FIG_1",
+			"steps": ""
+		},
+		{
+			"image": "FIG_2",
+			"steps": [
+				"1. Place the RGB Led on the Breadboard.",
+				"2. Place three, 220 ohm resistors on the breadboard",
+				"3. Connect jumper wires between R3 and RGB and between R1 and the RGB"
+			]
+		},
+		{
+			"image": "FIG_3",
+			"steps": [
+				"1. Connect a jumper wire from D2 to R1.",
+				"2. Connect a jumper wire from D4 to R2.",
+				"3. Connect a jumper wire from D6 to R3."
+			]
+		},
+		{
+			"image": "FIG_4",
+			"steps": [
+				"1. Place a pushbutton and one 220ohm resistor on the breadboard",
+				"2. Connect a jumper wire from D10 to one side of the resistor",
+				"3. Connect a jumper wire from 5V to the pushbutton"
+			]
+		},
+		{
+			"image": "FIG_5",
+			"steps": [
+				"1. Connect a jumper wire from GND to the negative rail of breadboard",
+				"2. Connect a jumper wire from negative rail to one side of the resistor",
+				"3. Connect a jumper wire from negative rail to the negative terminal of RGB"
+			]
+		}
+	]
+}

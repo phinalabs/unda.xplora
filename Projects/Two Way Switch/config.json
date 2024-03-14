@@ -1,0 +1,43 @@
+{
+    "project": [6,"Two Way Switch","Beginner","16min"],
+    "intro": "Turn the LED on and OFF using two different pushbuttons",
+    "learn": "Jumpers, Resistor, LED, Buttons",
+    "UI": {
+        "type": [3, "State"],
+        "options": "ON,OFF"
+    },
+    "build": [
+        {"image": "FIG_1", "steps": ""},
+        {
+			"image": "FIG_2",
+			"steps":[
+			"1.Place the LED and a 220 ohm resistor on the breadboard",
+			"2.Connect using breadboarding jumper wire from GND to the negative rail of the breadboard",
+			"3.Connect using breadboarding jumper wire from negative rail to the negative side of the LED",
+			"4.Connect a jumper wire from D2 to the resistor side on the positive side of the LED"
+			
+			]
+		},
+        {"image": "FIG_3", "steps": "Connect two pushbuttons and two 10K ohm resistors on the breadboard"},
+		
+		{
+			"image": "FIG_4",
+			"steps": [
+				"1.Connect using a jumper wire from top negative rail to the bottom negative rail of the breaboard",
+				"2.Connect a jumper wire from 5V to the positive rail of the breadboard",
+				"3.Connect a jumper wire from the positive rail of the breadboard to one side of button1",
+                "4.Connect a jumper wire from the positive rail of the breadboard to one side of button2"
+			]	
+		},
+		{
+			"image": "FIG_5",
+			"steps": [
+				"1.Connect using a jumper wire from D10 to one side of button1",
+				"2.Connect using a jumper wire from D13 to one side of button2",
+				"3.Run the project and press button1 and observe and press it again and observe",
+                "4.Press button2 then observe and press it again and observe",
+				"5. Now press button1 and press button2 and observe."
+			]	
+		}
+    ]	
+}

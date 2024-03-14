@@ -1,0 +1,40 @@
+{
+    "project": [7,"Light Dimming","Intermediate","12min"],
+    "intro": "Turn the knob of the potentiometer to seechange in brightness",
+    "learn": "Jumpers, Resistor, LED, Potentiometer",
+    "UI": {
+        "type": [2, "VALUE"],
+        "options": [3, "Brightness"]
+    },
+    "icon": "",
+	"build": [
+        {"image": "FIG_1", "steps": ""},
+        {
+			"image": "FIG_2",
+			"steps":[
+				"1. Place the LED and one 220 ohm resistor on the breadoard",
+				"2. Connect a jumper wire between the LED and the resistor",
+				"3. Connect a jumper wire from D3 to one side of the resistor"  
+			]
+		},
+		
+		{
+			"image": "FIG_3",
+			"steps": [
+				"1. Place the potentiometer on the breadboard",
+				"2. Connect a jumper wire from A7 to the middlepin of the potentiometer",
+				"3. Connect a jumper wire from 5V to the third pin of the potentiometer"
+			]
+		},
+		{
+			"image": "FIG_4",
+			"steps": [
+				"1. Connect a jumper wire from GND to the negative rail of the breadboard",
+				"2. Connect a jumper wire from negative rail to the first pin of the potentiometer",
+				"3. Connect a jumper wire from negative rail to the neative of the LED",
+				"4. Run the project and go to Play section"
+			]
+		}
+			
+		]
+}

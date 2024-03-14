@@ -1,0 +1,44 @@
+{
+    "project": [1,"Keyboard","Beginner","15min"],
+    "intro": "Send keyboard  keys",
+    "learn": "USB, Keyboard, Scratch",
+    "UI": {
+        "type": [1, "Keyboard"],
+        "options": "UNDA.MAKE,UP,DOWN,LEFT,RIGHT,BACKSPACE,RETURN,DELETE,TAB,CAPS LOCK"
+    },
+    "icon": "",
+	"build": [
+        {"image": "FIG_1", "steps": ""},
+        {
+			"image": "FIG_2",
+			"steps": "Connect four pushbutton and four 10K ohm resistors on the breadboard"
+		},
+		{
+			"image": "FIG_3",
+			"steps": [
+				"1. Connect a jumper wire from 5V to the positive rail of the breadboard",
+                "2. Connect breadboarding jumper wires from positive rail to one side of each of the resistors of the pusbuttons"
+	
+			]
+		},
+		{
+			"image": "FIG_4",
+			"steps": [
+				"1.Connect a jumper wire from D10 to one side of the resistor 4 (R4)",
+				"2.Connect a jumper wire from D9 to one side of the resistor 3 (R3)",
+				"3.Connect a jumper wire from D8 to one side of the resistor 2 (R2)",
+                "4.Connect a jumper wire from D7 to one side of the resistor 1 (R1)",
+				"5.Connect a jumper wire from GND to the negative rail of the breadboard"
+			]
+		},
+        {
+			"image": "FIG_5",
+			"steps": [
+				"1. Connect a type C cable to your computer",
+				"2. Download the Scratch application and open the provided Scratch project",
+                "3. Press the first button (U) and observe what happens. Do the same to the other pushbuttons"
+				
+			]
+		}
+		]
+}

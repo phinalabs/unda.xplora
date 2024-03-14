@@ -1,0 +1,35 @@
+{
+    "project": [7,"Fan","Beginner","5min"],
+    "intro": "Push the pushbutton to start and stop the fan",
+    "learn": "Jumpers, Pushbutton, Motor, Resistor",
+    "UI": {
+        "type": [2, "VALUE"],
+        "options": [3, "ON, OFF"]
+    },
+    "icon": "",
+	"build": [
+        {"image": "FIG_1", "steps": ""},
+        {
+			"image": "FIG_2",
+			"steps": "Place the motor, pushbutton and a 220ohm resistor on the breadboard"
+		},
+		{
+			"image": "FIG_3",
+			"steps": [
+				"1. Connect a jumper wire from 5V to the positive rail of the breadboard",
+				"2. Connect a jumper wire from positive rail to the pushbutton",
+				"3. Connect a jumper wire from GND to the negative rail of the breadboard",
+                "4. Connect a jumper wire from negative rail to one side of the resistor",
+				"5. Connect a jumper wire from D2 to one side of the resistor"
+			]
+		},
+		{
+			"image": "FIG_4",
+			"steps": [
+				"1. Connect a jumper wire from D10 to the positive pin of the motor",
+				"2. Connect a jumper wire from negative rail to the negative pin of the motor",
+				"3. Run the Project and then go to the Play Section"
+			]
+		}
+		]
+}

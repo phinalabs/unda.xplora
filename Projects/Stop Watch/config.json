@@ -1,0 +1,40 @@
+{
+    "project": [7,"Stop Watch","Beginner","20min"],
+    "intro": "Create a stop watch project. Use a START and STOP buttons to RUN or STOP",
+    "learn": "Jumpers,Resistor,Pushbuttons,Timer",
+    "UI": {
+        "type": [3, "StopWatch"],
+        "cmd": [0, 1, 2]
+    },
+    "icon": "",
+	"build": [
+        {"image": "FIG_1", "steps": ""},
+
+		{
+			"image": "FIG_2",
+			"steps": [ 
+                "1.Place two pushbuttons on the breadboard",
+                "2.Place two 10k resistors on the breadboard"
+        	]
+		},
+		{
+			"image": "FIG_3",
+			"steps": [
+				"1.Connect a jumper wire from 5V to positive rail of the breadboard",
+				"2.Connect breadboarding jumper wire from positive rail to pushubtton1",
+				"3.Connect breadboarding jumper wire from positive rail to pushubtton2"
+			]
+		},
+		{
+			"image": "FIG_4",
+			"steps": [
+				"1.Connect a jumper wire from GND to breadboard negative rail",
+				"2.Connect breadboarding jumper wire from D13 to pushbutton1",
+				"3.Connect breadboarding jumper wire from D12 to pushbutton2",
+				"4.Run the project and then go to the Play Section",
+				"5.Press button2 to start and stop the stopwatch. Button1 is used to reset"
+			]
+		}	
+			
+		]
+}

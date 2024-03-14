@@ -1,0 +1,34 @@
+{
+    "project": [7,"Volume Control","Beginner","5min"],
+    "intro": "Turn the knob to see change in volume",
+    "learn": "Jumpers, Potentiometer, Buzzer",
+    "UI": {
+        "type": [2, "VOLUME"],
+        "options": [3, "Volume"]
+    },
+    "icon": "",
+	"build": [
+        {"image": "FIG_1", "steps": ""},
+        {
+			"image": "FIG_2",
+			"steps": "Place the potentiometer and the buzzer on the breadboard"
+		},
+		{
+			"image": "FIG_3",
+			"steps": [
+				"1. Connect a jumper wire from 5V to the third pin of the potentiometer",
+				"2. Connect a jumper wire from A3 to the middle pin of the potentiometer",
+				"3. Connect a jumper wire from GND to the negative rail of the breadboard",
+                "4. Connect a jumper wire from negative rail to the first pin of the potentiometer"
+			]
+		},
+		{
+			"image": "FIG_4",
+			"steps": [
+				"1. Connect a jumper wire from D11 to the positive pin of the buzzer",
+				"2. Connect a jumper wire from negative rail to the negative pin of the buzzer",
+				"3. Run the Project and then go to the Play Section"
+			]
+		}
+		]
+}

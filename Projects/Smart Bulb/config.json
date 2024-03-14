@@ -1,0 +1,27 @@
+{
+    "project": [3,"Smart ","Beginner","10min"],
+    "intro": "Tri-color LED project to show different primary colors",
+    "learn": "Jumpers, Resistor, RGB LED",
+    "UI": {
+        "type": [1, "Color"],
+        "options": "RED,BLUE,GREEN,WHITE,PURPLE,CYAN,YELLOW"
+    },
+    "icon": "",
+	"build": [
+        {"image": "FIG_1", "steps": ""},
+        {"image": "FIG_2", "steps": "Place the RGB LED on the breadboard as shown"},
+        {"image": "FIG_3", "steps": "Place three 220ohm resistor on each of the color pins of the RGB"},
+        {
+			"image": "FIG_4",
+			"steps":[
+		
+			"1.Connect using a jumper wire from D2 to one side of resistor R1",
+			"2.Connect using a jumper wire from D4 to one side of resistor R2",
+			"3.Connect using a jumper wire from D6 to one side of resistor R3",
+			"4.Connect using a jumper wire from GND to the negative pin of the RGB",
+			"5.Run the project and then go to Play secion and try out the different options"
+
+			]
+		}
+	]
+}

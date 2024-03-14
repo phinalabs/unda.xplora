@@ -1,0 +1,36 @@
+{
+    "project": [7,"Smart Home","Beginner","5min"],
+    "intro": "Automation of light and bulbs at home",
+    "learn": "Jumpers, Temperature Sensor, LDR, Resistors, RGB",
+    "UI": {
+        "type": [4, "Smart Home"],
+        "labels": ["Light", "Temperature"],
+		"bg":"shome",
+		"icons": [["light", 16, 40], ["temp", 176, 40]]
+    },
+    "icon": "",
+	"build": [
+        {"image": "FIG_1", "steps": ""},
+        {
+			"image": "FIG_2",
+			"steps":[
+			"1.Place the tempearature sensor on the breadboard",
+			"2.Connect GND to the breadboard negative rail using breadboard jumper wires",
+			"3.Connect negative rail to the negative of the sensor using breadboard wires",
+			"4.Connect 5V to the breadboard positive rail using breadboard wires",
+			"5.Connect positive rail to the positive of the sensor using breadboard wires",
+			"6.Connect using a jumper wire from A6 to the middle pin of the sensor"
+			]
+		},
+		{
+			"image": "FIG_3",
+			"steps": [
+				"1.Place the LDR on the breadboard",
+				"2.Connect a 10k ohm resistor on the breadboard next to the LDR ",
+				"3.Connect breadboard negative rail to the LDR using breadboard wires",
+                "4.Connect a jumper wire from A0 to one side of the resistor",
+				"5. Run the project and then go to the Play Section"
+			]	
+		}
+	]
+}

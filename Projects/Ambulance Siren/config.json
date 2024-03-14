@@ -1,0 +1,46 @@
+{
+    "project": [7,"Ambulance Siren","Intermediater","15min"],
+    "intro": "Make an ambulance siren",
+    "learn": "Jumpers, Pushbutton, Buzzer, Resistors, RGB LED",
+    "UI": {
+        "type": [2, "STATE"],
+        "options": [3, "ON,OFF"]
+    },
+    "icon": "",
+	"build": [
+        {"image": "FIG_1", "steps": ""},
+        {
+			"image": "FIG_2",
+			"steps": "Connect the pushbutton, RGB LED and four 220ohm resistors on the breadboard"
+		},
+		{
+			"image": "FIG_3",
+			"steps": [
+				"1.Connect a jumper wire from 5V to the positive rail of the breadboard",
+				"2.Connect a jumper wire from positive rail to the pushbutton",
+				"3.Connect a jumper wire from GND to the negative rail of the breadboard",
+                "4.Connect a jumper wire from negative rail to one side of the resistor",
+				"5.Connect a jumper wire from D13 to one side of the resistor"
+			]
+		},
+		{
+			"image": "FIG_4",
+			"steps": [
+				"1.Connect a jumper wire from D2 to the  first pin of the RGB",
+				"2.Connect a jumper wire from negative  rail to the second pin of the RGB",
+				"3.Connect a jumper wire from D3 to the  third pin of the RGB",
+                "4.Connect a jumper wire from D6 to the  fourth pin of the RGB"
+			]	
+		},
+		{
+			"image": "FIG_5",
+			"steps": [
+				"1.Connect a jumper wire from D10 to the positive pin of the buzzer",
+				"2.Connect a jumper wire from negative  rail to the negative pin of the buzzer",
+				"3.Run the Project"
+			]
+		}
+		]
+	
+	
+}

@@ -1,0 +1,41 @@
+{
+    "project": [7,"3 Point Level Meter","Beginner","12min"],
+    "intro": "Use potentiometer to select 3 levels",
+    "learn": "Jumpers, Resistor, LED, Potentiometer",
+    "UI": {
+        "type": [2, "LEVEL"],
+        "options": [3, "KNOB VALUE (%)"]
+    },
+    "icon": "",
+	"build": [
+        {"image": "FIG_1", "steps": ""},
+        {
+			"image": "FIG_2",
+			"steps":[
+             "Place three resistors and three 220 ohm resistors on th breadboard",
+             "Connect a jumper wire between the positive side and one side of the resistor of each LED"
+            ]
+        },
+		
+        {
+			"image": "FIG_3",
+			"steps": [
+				"1.Connect a jumper wire from GND to the negative rail of the breadboard",
+				"2.Connect jumper wires from the negatie rail negative side of each LED",
+				"3.Connect a jumper wire from D4 to one side of R3",
+                "4.Connect a jumper wire from D5 to one side of R2",
+				"5.Connect a jumper wire from D6 to one side of R1"
+			]
+		},
+		{
+			"image": "FIG_4",
+			"steps": [
+				"1.Place the potentiometer on the breadboard",
+                "2.Connect a jumper wire from 5V to the third pin of the potentiometer",
+				"3.Connect a jumper wire from A0 to the middle pin of the potentiometer",
+				"4.Connect a jumper wire from negative rail to first pin of the potentiometer",
+                "5.Run the project and then go to the Play Section"
+			]
+		}
+		]
+}

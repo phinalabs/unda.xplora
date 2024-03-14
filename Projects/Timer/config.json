@@ -1,0 +1,43 @@
+{
+    "project": [7,"Timer","Beginner","10min"],
+    "intro": "Use pushbutton to start and reset the timer",
+    "learn": "Jumpers, Resistors, Pushbuttons, Buzzer",
+    "UI": {
+        "type": [0, "Timer"],
+        "cmd": [0, 1]
+    },
+    "icon": "",
+	"build": [
+        {"image": "FIG_1", "steps": ""},
+        {
+			"image": "FIG_2",
+			"steps": "Place the pushbuttons, 220 ohm resistors and buzzer on the breadboard"
+		},
+		{
+			"image": "FIG_3",
+			"steps": [
+				"1.Connect a jumper wire from 5V to the positive rail of the breadboard",
+				"2.Connect a jumper wire from the positive to one side of the pushbutton",
+				"3.Connect a jumper wire from GND to the negative rail of the breadboard",
+                "4.Connect a jumper wire from negative rail to one side of R1",
+				"5.Connect a jumper wire from D12 to one side of R1"
+			]
+		},
+		{
+			"image": "FIG_4",
+			"steps": [
+				"1.Connect a jumper wire from positive rail to one side of the pushbutton",
+				"2.Connect a jumper wire from D13 to one side of R2",
+				"3.Connect a jumper wire from negative rail to one side of R2"
+			]
+		},
+		{
+			"image": "FIG_5",
+			"steps": [
+				"1.Connect a jumper wire from D2 to positive side of the buzzer",
+				"2.Connect a jumper wire from negative rail to the negative of the buzzer",
+				"3.Run the project and then go to the Play Section"
+			]
+		}
+		]
+}

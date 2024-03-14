@@ -1,0 +1,35 @@
+{
+    "project": [7,"Street Lights","Intermediate","12min"],
+    "intro": "Cover the LDR to imitate darkeness",
+    "learn": "Jumpers, Resistor, LED, LDR",
+    "UI": {
+        "type": [2, "STATE"],
+        "options": [3, "ON,OFF"]
+    },
+    "icon": "",
+	"build": [
+        {"image": "FIG_1", "steps": ""},
+        {
+			"image": "FIG_2",
+			"steps": [
+				"1. Place the LED on the breadboard",
+				"2. Place a 220ohm resistor on the breadboard",
+				"3. Connect a jumper wire between the resistor and positive side of the LED",
+                "4. Connect a jumper wire from D2 to the resistor"
+			]
+		},
+		{"image": "FIG_3", "steps": "Place the LDR and the resistor on the breadboard"},
+		{"image": "FIG_4", "steps": "Connect a jumper wire from AO to the resistor"},
+		{
+			"image": "FIG_5",
+			"steps": [
+				"1. Connect a jumper wire from GND to the negative rail of the breadboard",
+				"2. Connect a jumper wire from the negative of the LDR",
+				"3. Connect a jumper wire from the negative to the LDR"
+            
+			]
+		}
+			
+		]
+}
+ 

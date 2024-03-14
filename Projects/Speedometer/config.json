@@ -1,0 +1,36 @@
+{
+    "project": [7,"Speedometer","Beginner","12min"],
+    "intro": "Push the pushbutton to start and stop the fan",
+    "learn": "Jumpers, Motor,potentiometer",
+    "UI": {
+        "type": [2, "Speedometer"],
+        "options": [3, "Speed"]
+    },
+    "icon": "",
+	"build": [
+        {"image": "FIG_1", "steps": ""},
+        {
+			"image": "FIG_2",
+			"steps": "Place the motor and potentiometer  on the breadboard"
+		},
+		{
+			"image": "FIG_3",
+			"steps": [
+				"1.Connect a jumper wire from 5V to the third pin of the potentiometer",
+				"2.Connect a jumper wire from GND to breadboard negative rail",
+				"3.Connect breadboard negative rail to pin 1 of the potentiomter using jumper",
+                "4.Connect a jumper wire from A4 to the middle pin of the potentiometer"
+			]
+		},
+		{
+			"image": "FIG_4",
+			"steps": [
+				"1.Connect a jumper wire from D10 to the positive pin of the motor",
+				"2.Connect a jumper wire from negative rail to the negative pin of the motor",
+				"3.Run the Project and then go to the Play Section"
+			]
+		}
+			
+		
+		]
+}

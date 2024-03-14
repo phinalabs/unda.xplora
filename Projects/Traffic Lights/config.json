@@ -1,0 +1,37 @@
+{
+    "project": [4,"Traffic Lights","Beginner","15min"],
+    "intro": "Traffic lights projects with Red, Orange and Green LEDs",
+    "learn": "Jumpers, Resistor, LED, Timers",
+    "UI": {
+        "type": [3, "Traffic Lights"],
+        "options": "Red,Orange,Green"
+    },
+    "icon": "",
+	"build": [
+        {"image": "FIG_1", "steps": ""},
+        {"image": "FIG_2", "steps": "Place 3 different coloured LEDs on the breadboard"},
+        {
+			"image": "FIG_3",
+			"steps":[
+			"1.Place a 220 ohm resistor next to each LED on the breadboard ",
+			"2.Connect each resistor to the postive pin of each LED using breadboarding jumper wires"
+			]
+		},
+        {
+			"image": "FIG_4",
+			"steps":[
+			"1.Connect a breadboarding jumper wire from D2 to one side of resistor R1",
+			"2.Connect a breadboarding jumper wire from D5 to one side of resistor R2",
+            "3.Connect a breadboarding jumper wire from D9 to one side of resistor R3"
+        ]
+		},
+        {
+			"image": "FIG_5",
+			"steps":[
+			"1.Connect a jumper wire from GND to the negative rail of the breadboard",
+			"2.Connect breadboarding jumper wires from negative rail to the negative side of each LED",
+            "3.Run the project and then open the Play section"
+        ]
+		}
+	]
+}

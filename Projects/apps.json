@@ -1,0 +1,23 @@
+{
+    "Flashing Light":"Blink LED(Light Emitting Diodes) with a preset time.",
+    "Running Lights":"Blink several LEDs to form a lighting pattern.",
+    "Traffic Lights":"Build and control traffic lights.",
+    "Decoration Light":"Light a bulb with different colors",
+    "Smart Bulb":"A smart bulb that changes to several colors",
+    "Light Switch":"A simple switch to turn bulb on and off",
+    "Two way Switch":"Build two switches to control a single bulb.",
+    "Notification Lights":"A light to notify that an event has occured.",
+    "Stopwatch":"Build a simple stop watch.",
+    "Timer":"Preset time to activate alarm.",
+    "Ambulance Siren":"Make Ambulance sound and lights.",
+    "Volume Control":"Volume knob, increase or decrease.",
+    "Light Dimming":"Dim a light bulb",
+    "Level Meter":"Turn a knob and show scale.",
+    "Fan":"Build and control speed of an electronic fan.",
+    "Speedometer":"Build and speed gauge.",
+    "Thermometer":"Measure room or objects Temperature.",
+    "Oven Control":"Build oven heat and fan controls.",
+    "Street Lights":"Smart street Light that turns on or off automatically.",
+    "Smart Home":"Use sensors to know the light and Temperature of the house.",
+    "Keyboard":"Have fun with scratch and keyboard events."
+}
