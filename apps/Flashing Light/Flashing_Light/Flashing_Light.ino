@@ -7,7 +7,7 @@
 */
 
 //led pin
-const uint8_t LED_PIN = 2;
+const uint8_t LED_PIN = 3;
 
 //modes
 typedef enum {
