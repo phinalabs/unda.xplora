@@ -23,6 +23,7 @@ void loop() {
   int Pot_Value =analogRead(POT_PIN);
   int volume = map(Pot_Value, 0,1023,0,100);
   analogWrite(BUZZER, volume);
+  sendValue(volume);
   delay(100);
   }
 
